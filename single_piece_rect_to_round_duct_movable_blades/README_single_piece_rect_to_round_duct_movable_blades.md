@@ -418,4 +418,4 @@ Higher values create cleaner curves but slower rendering and larger STL files.
 
 This README describes the movable-blade version of the duct model.
 
-The earlier fused-blade idea was replaced because movable guide blades should be printed separately and mounted through holes in the rectangular section.
+
